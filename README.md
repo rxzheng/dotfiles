@@ -1,17 +1,8 @@
-My Arch installation uses both dwm and KDE Plasma. I use colemak as my keyboard layout and st as my terminal emulator.
+These are my macOS dotfiles.
 
-Some packages I use: xcompmgr oh-my-zsh pywall
-For a school computer I use macOS.
+macOS setup: yabai + skhd
 
-I have attached a screenshot to the setup
+Arch Linux setup: dwm/hyprland
 
-I do not have sudo so some of the stuff doesn't really work.
+sketchybar config from sertdfyguhi
 
-Setup details:
-tmux + nvim + iTerm2 + homebrew
-
-Packages used:
-cmatrix ranger htop spt (spotify-tui) spicetify spotifyd cava
-
-Desktop Environment:
-yabai + skhd
