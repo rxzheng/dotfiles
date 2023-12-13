@@ -6,3 +6,10 @@ Arch Linux setup: dwm/hyprland
 
 sketchybar config from sertdfyguhi
 
+Things that you have to do before it works:
+[ ]install homebrew (you can look at my homebrewinstall repository)
+[ ]install zsh-syntax highlighting package
+[ ]brew install npm (for neovim)
+[ ]yabai --start-service
+[ ]brew services start sketchybar
+[ ]some more stuff that i haven't thought through yet
