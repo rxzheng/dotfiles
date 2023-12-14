@@ -1,3 +1,8 @@
+Arch Linux
+![Arch Linux](https://github.com/rxzheng/dotfiles/blob/main/archscreenshot.png)
+
+macOS
+![macOS](https://github.com/rxzheng/dotfiles/blob/main/macosscreenshot.png)
 These are my macOS dotfiles.
 
 macOS setup: yabai + skhd
@@ -19,6 +24,3 @@ Things that you have to do before it works:
 [ ]brew services start sketchybar
 
 [ ]some more stuff that i haven't thought through yet
-
-![Arch Linux](https://github.com/rxzheng/dotfiles/blob/main/archscreenshot.png)
-![macOS](https://github.com/rxzheng/dotfiles/blob/main/macosscreenshot.png)
