@@ -1,4 +1,4 @@
-Arch Linux
+Arch Linux (dwm)
 ![Arch Linux](https://github.com/rxzheng/dotfiles/blob/main/archscreenshot.png)
 
 macOS
