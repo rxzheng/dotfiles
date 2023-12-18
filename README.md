@@ -3,8 +3,9 @@ Arch Linux (dwm)
 
 macOS
 ![macOS](https://github.com/rxzheng/dotfiles/blob/main/macosscreenshot.png)
-These are my macOS dotfiles.
+**These are my macOS/arch dotfiles.**
 
+Please note that this is not supposed to work automatically: create an issue if you want help setting something up.
 macOS setup: yabai + skhd
 
 Arch Linux setup: dwm/hyprland
@@ -23,4 +24,5 @@ Things that you have to do before it works:
 
 [ ]brew services start sketchybar
 
+[ ]brew install jq (for sketchybar)
 [ ]some more stuff that i haven't thought through yet
